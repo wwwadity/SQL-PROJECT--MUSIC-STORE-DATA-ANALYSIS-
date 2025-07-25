@@ -1,6 +1,8 @@
 # SQL-PROJECT--MUSIC-STORE-DATA-ANALYSIS-
+/*-- SQL 
 Project Overview: Conducted a comprehensive analysis of a music store database  using SQL to derive insights on customer behavior,  sales performance, and genre popularity. The project involved querying multiple   tables to answer key business questions and support  decision-making for promotional activities
-Key Achievements:
+ 
+ Key Achievements:
 Employee Analysis: Identified the senior-most employee based on job title.
 Sales Insights: Analyzed invoice data to determine which countries generated the most revenue and identified the 
 best customers based on total spending.
